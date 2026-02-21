@@ -18,8 +18,7 @@
 
 Frontend: [http://localhost:5173 ](https://signsmarts.netlify.app/login) 
 Backend: [http://127.0.0.1:8000  ](https://signsmart.onrender.com)
-
-https://signsmarts.netlify.app/login
+([Add deployed link if hosted](https://signsmarts.netlify.app/login))
 
 ---
 
@@ -147,7 +146,7 @@ npm run dev
 ```
 
 Frontend runs at:
-http://localhost:5173
+(https://signsmarts.netlify.app/login)
 
 ---
 
@@ -165,7 +164,7 @@ Upload PDF Here
 Risk Analysis and highlighted clauses.
 
 <img width="1301" height="640" alt="image" src="https://github.com/user-attachments/assets/b7b368b6-5771-4066-8189-306eca3d80d5" />
-Downloadig the Analysis Report
+Downloading the Analysis Report
 
 <img width="1537" height="676" alt="image" src="https://github.com/user-attachments/assets/69995c02-d518-4bee-9f92-e4834e3efaa8" />
 AI chatbot assisting users in navigation.
